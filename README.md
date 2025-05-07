@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepthi3245&label=Profile%20views&color=0e75b6&style=flat" alt="deepthi3245" /> </p>
 
-- 🔭 I’m currently working on **Bank Of New York - Melon**
+- 🔭 I’m currently working on **Blue Cross Blue Shield**
 
 - 🌱 I’m currently learning **Machine Learning (scikit-learn, TensorFlow) Advanced Cloud Solutions (AWS, Docker)**
 
