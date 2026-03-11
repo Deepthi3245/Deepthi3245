@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Sai Deepthi</h1>
-<h3 align="center">A passionate Data Aspirant</h3>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepthi3245&label=Profile%20views&color=0e75b6&style=flat" alt="deepthi3245" /> </p>
+- 🔭 I’m currently working as a **Full Stack Engineer at Fiserv**, building and supporting enterprise applications
 
-- 🔭 I’m currently working on **Blue Cross Blue Shield**
+- 🌱 I’m currently learning more about **cloud-native development, distributed systems, and scalable backend design**
 
-- 🌱 I’m currently learning **Machine Learning (scikit-learn, TensorFlow) Advanced Cloud Solutions (AWS, Docker)**
+- 👨‍💻 I like working on **Java backend development, REST APIs, microservices, and full stack applications** that solve practical business problems
 
-- 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Sai-Deepthi](https://codebasics.io/portfolio/Sai-Deepthi)
+- 💬 Ask me about **Java, Spring Boot, SQL, Kafka, Docker, AWS, and software development in general**
 
-- 💬 Ask me about **SQL, Power BI, Tableau, Python (pandas, NumPy) ETL Pipelines, Real-Time Data Streaming (Kafka) Predictive Modeling and Data Automation**
+- 📫 How to reach me **saideepthi045@gmail.com**
 
-- 📫 How to reach me **saideepthi622@gmail.com**
-
-- ⚡ Fun fact **I once built a real-time stock prediction model that surprised even me!**
+- ⚡ Fun fact **I like digging into how systems work end to end and finding ways to make them cleaner, more reliable, and easier to scale**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alisyamsaideepthi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alisyamsaideepthi/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/asaideepthi33/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asaideepthi33/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
